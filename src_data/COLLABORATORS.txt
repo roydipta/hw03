@@ -1,0 +1,5 @@
+(This is an example. Please edit accordingly.)
+
+Name: Dipta Roy
+I spent 3 days on this assignment part 5 took the longest time
+I sought help from google.com, stack overflow, and machinelearningmastery.com.
